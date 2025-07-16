@@ -285,13 +285,15 @@ defaults:
       type: posts
     values:
       layout: single
+      classes: ""
       author_profile: true
       read_time: true
       comments: true
       share: true
       related: true
+      
 
-defaults:
+
   # _pages
   - scope:
       path: ""
@@ -299,7 +301,7 @@ defaults:
     values:
       layout: single
 
-defaults:
+
   # _foo
   - scope:
       path: ""
