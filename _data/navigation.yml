@@ -3,10 +3,8 @@ main:
   - title: "Home"
     url: https://crimson1984.github.io/minimal-mistakes/
   - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Sample Posts"
-    url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
+    url: /about/
+  - title: "Tags"
+    url: /tags/
   - title: "KFC"
-    url: /sitemap/
+    url: /KFC/
