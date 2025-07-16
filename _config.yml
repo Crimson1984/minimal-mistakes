@@ -36,17 +36,17 @@ copyright_url            : defaults
 comments:
   provider               : "giscus"
   giscus:
-    repo_id              : # Shown during giscus setup at https://giscus.app
-    category_name        : Full text name of the category
-    category_id          : Shown during giscus setup at https://giscus.app
-    discussion_term      : # "pathname" (default), "url", "title", "og:title"
-    reactions_enabled    : # '1' for enabled (default), '0' for disabled
+    repo_id              : "R_kgDOPNS1EQ"
+    category_name        : "Announcements"
+    category_id          : "DIC_kwDOPNS1Ec4CtBvG"
+    discussion_term      : "pathname"
+    reactions_enabled    : '1'
     theme                : "transparent_dark"
-    strict               : # 1 for enabled, 0 for disabled (default)
+    strict               : 0
     input_position       : "top"
-    emit_metadata        : # 1 for enabled, 0 for disabled (default) # https://github.com/giscus/giscus/blob/main/ADVANCED-USAGE.md#imetadatamessage
-    lang                 : # "en" (default)
-    lazy                 : # true, false # Loading of the comments will be deferred until the user scrolls near the comments container.
+    emit_metadata        : 0
+    lang                 : zh-CN
+    lazy                 : true
 reCaptcha:
   siteKey                :
   secret                 :
@@ -102,7 +102,6 @@ author:
   avatar           : "/assets/images/billie.jpg"
   bio              : "A blog for tech, travel and funny staff."
   location         : "Somewhere Galaxy Solar-Mars"
-  email            :  Garvofadge@foxmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
