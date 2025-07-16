@@ -5,10 +5,10 @@ layout: single
 author_profile: true
 ---
 
-# Hi there!:kissing:
+# Hi there!😚
 
 ## This is a Minimal Mistake theme based on Jekyll. 
 
-## You can share ideas here. You can deliver post to Garvofadge@foxmail.com, along with your information, if you like. 
+## You can share ideas here. You can deliver post to Garvofadge@foxmail.com[email](Garvofadge@foxmail.com), along with your information, if you like. 
 
 # Have a nice day💖!
