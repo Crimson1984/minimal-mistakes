@@ -12,7 +12,7 @@
 
 #theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "neon"
 
 # Site Settings
 locale                   : "zh-CN"
@@ -113,7 +113,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Sol Crimson"
   avatar           : "/assets/images/billie.jpg"
   bio              : "A blog for tech, travel and funny staff."
   location         : "Somewhere Galaxy Solar-Mars"
