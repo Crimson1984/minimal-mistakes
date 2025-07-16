@@ -1,6 +1,6 @@
 # /_data/authors.yml
 
-Billie Jean:
+BillieJean:
   name             : "Billie Jean"
   avatar           : "/assets/images/billie.jpg"
   bio              : "A blog for tech, travel and funny staff."
@@ -12,9 +12,9 @@ Billie Jean:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Crimson1984"
-      label: "Steam"
+    - label: "Steam"
       icon: "fa-brands fa-square-steam"
       url: "https://steamcommunity.com/profiles/76561198976807657/"
-      label: "Bilibili"
+    - label: "Bilibili"
       icon: "fa-brands fa-bilibili"
       url: "https://space.bilibili.com/450717116"
