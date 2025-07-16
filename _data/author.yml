@@ -1,0 +1,20 @@
+# /_data/authors.yml
+
+Billie:
+  name             : "Billie"
+  avatar           : "/assets/images/billie.jpg"
+  bio              : "A blog for tech, travel and funny staff."
+  location         : "Somewhere Galaxy Solar-Mars"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:Garvofadge@foxmail.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Crimson1984"
+      label: "Steam"
+      icon: "fa-brands fa-square-steam"
+      url: "https://steamcommunity.com/profiles/76561198976807657/"
+      label: "Bilibili"
+      icon: "fa-brands fa-bilibili"
+      url: "https://space.bilibili.com/450717116"

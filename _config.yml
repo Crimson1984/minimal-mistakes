@@ -15,7 +15,7 @@ remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "neon"
 
 # Site Settings
-locale                   : "en"
+locale                   : "zh-CN"
 rtl                      : false
 title                    : "Crimson's Blog"
 title_separator          : "-"
@@ -98,7 +98,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sol Crimson"
+  name             : "Billie Jean"
   avatar           : "/assets/images/billie.jpg"
   bio              : "A blog for tech, travel and funny staff."
   location         : "Somewhere Galaxy Solar-Mars"
