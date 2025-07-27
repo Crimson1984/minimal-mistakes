@@ -4,7 +4,6 @@ BillieJean:
   name             : "Billie Jean"
   avatar           : "/assets/images/billie.jpg"
   bio              : "A blog for tech, travel and funny staff."
-  location         : "Somewhere Galaxy Solar-Mars"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
